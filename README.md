@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cihan Celik</h1>
+<h1 align="center">Hi 👋,   I'm Cihan Celik</h1>
 <h3 align="center">As a dedicated Android Developer with a year of training and project experience in Java and Kotlin</h3>
 
 - 🔭 I’m currently working on **MovieApp**
