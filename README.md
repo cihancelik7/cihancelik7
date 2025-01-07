@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,   I'm Cihan Celik</h1>
-<h3 align="center">As a dedicated Android Developer with a year of training and project experience in Java and Kotlin</h3>
+<h3 align="center">I am a software developer experienced in both backend development and Android applications. Skilled in Java, Kotlin, and Spring Boot, I build scalable backend systems and feature-rich mobile applications. I focus on clean code, performance, and problem-solving in both domains.</h3>
 
 - 🔭 I’m currently creating own **ChatBot**
 
